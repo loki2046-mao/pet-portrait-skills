@@ -1,0 +1,13 @@
+interface:
+  display_name: LOMO 萌宠 · 快乐瞬间
+  short_description: 为多种动物定格自然可爱的胶片瞬间，也可依据原照保留可见个体特征
+  default_prompt: 用 $capture-pet-lomo-moments 为指定动物做自然可爱的 LOMO 照片；如果我上传自家动物照片，请保留可见个体特征，并在照片支持的角度和动作内表现快乐记忆感。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

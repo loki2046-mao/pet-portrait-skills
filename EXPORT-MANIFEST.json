@@ -1,0 +1,86 @@
+[
+  {
+    "file": "skills/capture-pet-lomo-moments/SKILL.md",
+    "sha256": "8d6f75045c7a093a912fdc3416ba8e3bd907ad32ede5d603de758b24e664ae79"
+  },
+  {
+    "file": "skills/capture-pet-lomo-moments/agents/openai.yaml",
+    "sha256": "73a498bd0f64527dc9c442edfa2a4c48c7b59520cf13653484c9a49710c965d8"
+  },
+  {
+    "file": "skills/capture-pet-lomo-moments/assets/icon.svg",
+    "sha256": "49315dda7125ec5fc77ef5f2b96126d8b2121c6e72944b4702972e90f321d3ee"
+  },
+  {
+    "file": "skills/capture-pet-lomo-moments/assets/moments/dachshund-turn.png",
+    "sha256": "845373ca8a5f2e4c198262178b10dfd6901b9652dfb99e8529e7e4fc7669e74d"
+  },
+  {
+    "file": "skills/capture-pet-lomo-moments/assets/moments/exotic-yawn.png",
+    "sha256": "4d3101200929e57ac2eeb51493348ce2fd79235afcba9c545f346405007e8f65"
+  },
+  {
+    "file": "skills/capture-pet-lomo-moments/assets/moments/ragdoll-pause.png",
+    "sha256": "f2c134b1b04e31d33ddeb591043c7534a7a83722768a4f313c7c243376d540d1"
+  },
+  {
+    "file": "skills/capture-pet-lomo-moments/assets/moments/westie-tongue.png",
+    "sha256": "0e2633fd8245bab2f2d1a00acda7a4de1163310712d5df95e230384e8d71a34a"
+  },
+  {
+    "file": "skills/capture-pet-lomo-moments/references/instant-film-look.md",
+    "sha256": "93c48cbb2227adef199d704bcb7a73b6b518f918742601ef2cf885f65a1b18ee"
+  },
+  {
+    "file": "skills/capture-pet-lomo-moments/references/moment-design.md",
+    "sha256": "13329e0a0880379ef3699a301e1d636b8f9d1498e2e519cc190abeecb968d27f"
+  },
+  {
+    "file": "skills/capture-pet-lomo-moments/references/photo-identity.md",
+    "sha256": "0c3feef9c2d2da4ab1a9242f144311b7867ba11efccb1bd2cbae1e0af0c4d4e6"
+  },
+  {
+    "file": "skills/capture-pet-lomo-moments/references/prompt-recipes.md",
+    "sha256": "0b0b54ca3ed14537995e88a1e56a91f62fa25670daa1d37d43e6ad4b5c6a65eb"
+  },
+  {
+    "file": "skills/create-pet-film-portraits/SKILL.md",
+    "sha256": "165643c7cb5e9b5c67075f57acf3dc38ff82290e557950011708845a9830e8be"
+  },
+  {
+    "file": "skills/create-pet-film-portraits/agents/openai.yaml",
+    "sha256": "71f1dc00a220e71982a0c649faf40ac0ae0588d40e62ccd730e11a62eda9b348"
+  },
+  {
+    "file": "skills/create-pet-film-portraits/assets/cinematic/abyssinian.png",
+    "sha256": "870a5667b1a73bd1d637431c6e67dbe2915388b8b9c12bcd1ce4d228f0590ce0"
+  },
+  {
+    "file": "skills/create-pet-film-portraits/assets/cinematic/british-shorthair.png",
+    "sha256": "42d8cd34622ed2718ce6824fdc99d436b076e344d85cbd79ed6b502e58c909b7"
+  },
+  {
+    "file": "skills/create-pet-film-portraits/assets/cinematic/cocker-spaniel.png",
+    "sha256": "81cdf111cc99a0e023fbccd0c87e6d77ccf66e3b4b8ddc25d22f3281251cc23a"
+  },
+  {
+    "file": "skills/create-pet-film-portraits/assets/cinematic/whippet.png",
+    "sha256": "fa388eefe1a40039b9ba4acc8741dc8941a14b8a24c7b64cc95b03228c53d302"
+  },
+  {
+    "file": "skills/create-pet-film-portraits/assets/icon.svg",
+    "sha256": "49315dda7125ec5fc77ef5f2b96126d8b2121c6e72944b4702972e90f321d3ee"
+  },
+  {
+    "file": "skills/create-pet-film-portraits/references/cinematic-style.md",
+    "sha256": "0d5a3d495b1d9632552bfe050082fc6d8ed61814632d2ca8d0baaf3da76b25ab"
+  },
+  {
+    "file": "skills/create-pet-film-portraits/references/photo-identity.md",
+    "sha256": "5a405d87286a11dbd81f10b20e3bfe553e1340cd4ec6f86b8dec30fc204bf875"
+  },
+  {
+    "file": "skills/create-pet-film-portraits/references/prompt-recipes.md",
+    "sha256": "401fa7e386cba17174a95aaad2bba132f4e1fb52b95e4e04e4aaf4a128940b0f"
+  }
+]

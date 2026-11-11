@@ -1,0 +1,13 @@
+interface:
+  display_name: 有腔调的动物 · 高奢大片
+  short_description: 为多种动物创作贵气文艺的胶片大片，也可依据原照保留个体可见特征
+  default_prompt: 用 $create-pet-film-portraits 为指定动物创作高奢胶片肖像；如果我上传自家动物照片，请先保留可见个体特征，在照片支持的角度内调整光影和穿搭。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
