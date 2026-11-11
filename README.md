@@ -18,7 +18,7 @@
 
 ## 怎么用
 
-1. 下载本仓库（Code → Download ZIP），或使用 [Releases](../../releases/latest) 里的两份独立 Skill ZIP。
+1. 下载本仓库（Code → Download ZIP），或使用 [Releases](https://github.com/loki2046-mao/pet-portrait-skills/releases/latest) 里的两份独立 Skill ZIP。
 2. 在支持 Skill 导入的助手里导入相应 ZIP；本地 Skill 环境则把对应目录放入该工具的 skills 目录。请保留 references、assets 和 agents 子目录。
 3. 需要具备看图和图像生成／编辑能力的工具。此仓库不包含出图模型或 API 额度，不能单独运行生图。
 4. 调用你选的 Skill，说明动物、数量和风格。做自家宠物时，上传身份照片。
